@@ -3,6 +3,8 @@ import streamlit as st
 # Title of the app
 st.title('Simple Calculator')
 
+st.markdown("### Developed By M HUSSNAIN")
+
 # User input for two numbers
 num1 = st.number_input('Enter first number:')
 num2 = st.number_input('Enter second number:')
