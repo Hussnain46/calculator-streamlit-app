@@ -1,6 +1,5 @@
 import streamlit as st
 
-# Title of the app
 st.title('Simple Calculator')
 
 st.markdown("### Developed By M HUSSNAIN")
